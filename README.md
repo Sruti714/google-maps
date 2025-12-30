@@ -1,17 +1,24 @@
-# google-maps# DevProjects - Build a custom google maps theme
+# Custom Google Map Project
 
-This is an open source project from [DevProjects](http://www.codementor.io/projects). Feedback and questions are welcome!
-Find the project requirements here: [Build a custom google maps theme](https://www.codementor.io/projects/web/build-a-custom-google-maps-theme-bf8levr6eg)
+This project demonstrates how to build and customize a Google Map using the Google Maps JavaScript API.
 
-## Tech/framework used
-Built with ___
+## Features
+- Custom map styling using Map ID
+- Centered map location
+- Custom marker
+- Built using HTML, CSS, and JavaScript
 
-## Screenshots and demo
-Screenshots of your app and/or a link to your live demo
+## Technologies Used
+- Google Maps JavaScript API
+- HTML
+- CSS
+- JavaScript
 
-## Installation
-Instructions for other developers on how to install and run your code on their local environment.
+## Setup Instructions
+1. Clone the repository
+2. Replace `YOUR_API_KEY` with a valid Google Maps API key
+3. Replace `YOUR_MAP_ID` with your Map ID
+4. Open `index.html` in a browser or using Live Server
 
-## License
-[MIT](https://choosealicense.com/licenses/mit/)
-Most open source projects use the MIT license. Feel free to choose whichever license you prefer.
+## Note
+Google Maps API requires billing to be enabled, but usage falls under Google's free monthly credit.
